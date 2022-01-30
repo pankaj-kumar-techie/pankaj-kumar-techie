@@ -1,8 +1,8 @@
-### Hi there 👋
+
 <div align="center">
+  ### Hi there 👋
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/pahariyatri/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+
 <!--
 **pahariyatri/pahariyatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
