@@ -43,6 +43,9 @@ I am an experienced Software Engineer <img src="https://media.giphy.com/media/WU
 
 ---
 
-### :fire: My Stats :
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=pahariyatri&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="pahariyatri's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="pahariyatri's github streak" width="48%" >
 
 ---
