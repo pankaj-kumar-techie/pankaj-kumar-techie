@@ -49,3 +49,10 @@ I am an experienced Software Engineer <img src="https://media.giphy.com/media/WU
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="pahariyatri's github streak" width="48%" >
 
 ---
+
+---
+
+### 🔝 Most used languages
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahariyatri&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
+
+---
