@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=pahariyatri&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there pankaj kumar
+    hey there
   </h1>
 </div>
 <div align="center">
