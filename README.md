@@ -53,7 +53,7 @@ I am an experienced Software Engineer <img src="https://media.giphy.com/media/WU
 
 ## Skills according to CodersRank
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fernandocanizo" />
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pahariyatri" />
 
 While CodersRank system shows skills pretty nice, it doesn't currently show all my skills, so I'll patch it here with my main skills:
 
