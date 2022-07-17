@@ -49,36 +49,6 @@ I am an experienced Software Engineer <img src="https://media.giphy.com/media/WU
 
 ---
 
----
-
-## Skills according to CodersRank
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pahariyatri" />
-
-While CodersRank system shows skills pretty nice, it doesn't currently show all my skills, so I'll patch it here with my main skills:
-
-<p>
-  <img src="https://img.shields.io/badge/javascript-ffff00?logo=javascript&logoColor=black&style=for-the-badge" style="float:left" />
-  <img src="https://img.shields.io/badge/node.js-026e00?logo=node.js&logoColor=black&style=for-the-badge" style="float:left" />
-  <img src="https://img.shields.io/badge/postgresql-336791?logo=postgresql&logoColor=black&style=for-the-badge" style="float:left" />
-  <img src="https://img.shields.io/badge/html-e14d25?logo=html5&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/css-2864e9?logo=css3&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/express.js-eeeeee?logo=express&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/bash-72a824?logo=gnu-bash&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/docker-2496ed?logo=docker&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/aws-232f3e?logo=amazon-https://github.com/fernandocanizo/fernandocanizoaws&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/leaflet-199900?logo=leaflet&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/mapbox-000000?logo=mapbox&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/json-aeaeae?logo=json&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/jwt-d935ff?logo=json-web-tokens&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/git-f05032?logo=git&logoColor=black&style=for-the-badge" />
-</p>
-
----
-
----
-
 ### 🔝 Most used languages
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahariyatri&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
 
