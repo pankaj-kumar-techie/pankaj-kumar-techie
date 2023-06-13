@@ -1,5 +1,3 @@
-# Pankaj Kumar
-
 ## About Me
 I am an experienced Software Engineer with a Bachelor of Engineering (B.E.) in Information Technology from Chandigarh University. With over 5 years of experience, I specialize in full-stack development and have a strong knowledge of front-end and back-end techniques. My goal is to deliver high-quality software solutions and ensure client satisfaction.
 
@@ -13,8 +11,8 @@ I am an experienced Software Engineer with a Bachelor of Engineering (B.E.) in I
 - Project Management: Jira, Confluence
 - Collaboration: Slack
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankaj-kumar-techie&include_all_commits=true&show_icons=true&theme=github_dark)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-kumar-techie&theme=github_dark&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact)
+## GitHub Stats and Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankaj-kumar-techie&include_all_commits=true&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-kumar-techie&theme=github_dark&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" alt="Top Languages" height="150" />
+</div>
