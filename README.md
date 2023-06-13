@@ -14,7 +14,7 @@ I am an experienced Software Engineer with a Bachelor of Engineering (B.E.) in I
 - Collaboration: Slack
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pahariyatri&include_all_commits=true&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankaj-kumar-techie&include_all_commits=true&show_icons=true&theme=github_dark)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahariyatri&theme=github_dark&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-kumar-techie&theme=github_dark&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact)
