@@ -19,28 +19,38 @@ I am an experienced Software Engineer with a passion for coding and problem-solv
 ### :hammer_and_wrench: Technologies and Tools
 
 #### Programming Languages
-Java, JavaScript, TypeScript, Flutter
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> &nbsp;
 
 #### Frameworks
-Spring Boot, React, Angular
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/> &nbsp;
 
 #### Cloud Platforms
-AWS (EC2, Serverless, Lambda, Step Functions, Route 53, Load Balancer, Elastic Beanstalk)
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/> &nbsp;
 
 #### Deployment
-Docker, Jenkins, Git Actions
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git Actions" alt="Git Actions" width="40" height="40"/> &nbsp;
 
 #### Databases
-MySQL, MongoDB
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> &nbsp;
 
 #### Version Control
-Git, Bitbucket
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/> &nbsp;
 
 #### Project Management
-Jira, Confluence
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" title="Jira" alt="Jira" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" title="Confluence" alt="Confluence" width="40" height="40"/> &nbsp;
 
 #### Collaboration
-Slack
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/> &nbsp;
 
 ---
 
