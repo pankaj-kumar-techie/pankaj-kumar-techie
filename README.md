@@ -22,6 +22,42 @@
 ### :woman_technologist: About Me :
 I am an experienced Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a Bachelor of Engineering (B.E.) in information Technology form Chandigarh University and 5+ year in software development, working as Full Stack Engineer with good knowledge of front-end and back-end techniques, include design, maintain, modify and debug software.
 - :telescope: I'm responsible and always punctual to deadlines. My goal is to make every client satisfied.
+- ### :hammer_and_wrench: Languages and Tools
+
+#### Programming Languages
+- Java
+- JavaScript
+- TypeScript
+- Flutter
+
+#### Frameworks
+- Spring Boot
+- React
+- Angular
+
+#### Cloud Platforms
+- AWS (EC2, Serverless, Lambda, Step Functions, Route 53, Load Balancer, Elastic Beanstalk)
+
+#### Deployment
+- Docker
+- Jenkins
+- Git Actions
+
+#### Database
+- MySQL
+- MongoDB
+
+#### Version Control
+- Git
+- Bitbucket
+
+#### Project Management
+- Jira
+- Confluence
+
+#### Collaboration
+- Slack
+
 
 - :seedling: Exploring Technical Content Writing.
 
