@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://pbs.twimg.com/profile_images/1267037032867598338/WuIcKTuF_400x400.jpg" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/pahariyatri">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
