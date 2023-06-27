@@ -21,7 +21,6 @@ I am an experienced Software Engineer with a Bachelor of Engineering (B.E.) in I
 ---
 
 ### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=pankaj-kumar-techie&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="pankaj-kumar-techie's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-kumar-techie&theme=tokyonight&hide_border=true" alt="loonds's github streak" width="48%" >
 
 ---
