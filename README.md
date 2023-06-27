@@ -14,7 +14,7 @@ I am an experienced Software Engineer with a Bachelor of Engineering (B.E.) in I
 
 ### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-kumar-techie&theme=tokyonight&hide_border=true" alt="loonds's github streak" width="48%" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-kumar-techie&theme=tokyonight&hide_border=true" alt="loonds's github streak" >
 </div>
 
 ## GitHub Stats and Top Languages
@@ -22,8 +22,3 @@ I am an experienced Software Engineer with a Bachelor of Engineering (B.E.) in I
   <img src="https://github-readme-stats.vercel.app/api?username=pankaj-kumar-techie&include_all_commits=true&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-kumar-techie&theme=github_dark&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" alt="Top Languages" height="150" />
 </div>
-
----
-
-
----
