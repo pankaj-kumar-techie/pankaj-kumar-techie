@@ -1,6 +1,3 @@
-# Pankaj Kumar  
-🚀 Software Engineer | Microservices | Cloud & Backend Expert  
-
 ## About Me  
 Experienced **Software Engineer** with **5+ years** in **backend development, microservices, and cloud computing**. Skilled in **Java, Spring Boot, and AWS**, I specialize in building **scalable, high-performance systems**. Passionate about solving real-world problems with technology.  
 
