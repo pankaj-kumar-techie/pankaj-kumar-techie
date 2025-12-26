@@ -1,12 +1,13 @@
 ## About Me  
-Experienced **Software Engineer** with **5+ years** in **backend development, microservices, and cloud computing**. Skilled in **Java, Spring Boot, and AWS**, I specialize in building **scalable, high-performance systems**. Passionate about solving real-world problems with technology.  
+Backend-focused **Software Engineer** with **5+ years** of experience building **scalable APIs, microservices, and data-driven systems**. Skilled in **Java, PHP, and Python**, with strong expertise in **database design, cloud infrastructure, and backend architecture**. Frontend experience supports full-stack delivery when needed.
+
 
 ## Skills  
-- **Backend:** Java, Spring Boot, Hibernate, REST, GraphQL, Microservices  
-- **Frontend:** JavaScript, TypeScript, React, Angular, Next.js  
-- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Azure, Docker, Kubernetes, CI/CD  
-- **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB  
-- **Tools:** Git, Bitbucket, Jira, Confluence, Agile (Scrum)  
+- **Backend:** Java (Spring Boot), PHP (Laravel), Python, REST APIs, Microservices  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, CI/CD  
+- **Frontend (Supporting):** JavaScript, TypeScript, React, Angular, Next.js  
+- **Tools:** Git, Jira, Agile (Scrum) 
 
 ## Education  
 🎓 **B.E. in Information Technology** - Chandigarh University (2020)  
