@@ -1,9 +1,9 @@
 ## About Me  
-Backend-focused **Software Engineer** with **5+ years** of experience building **scalable APIs, microservices, and data-driven systems**. Skilled in **Java, PHP, and Python**, with strong expertise in **database design, cloud infrastructure, and backend architecture**. Frontend experience supports full-stack delivery when needed.
+Backend-focused **Software Engineer** with **5+ years** of experience building **scalable APIs, microservices, and data-driven systems**. Skilled in **Java and Python**, with strong expertise in **database design, cloud infrastructure, and backend architecture**. Frontend experience supports full-stack delivery when needed.
 
 
 ## Skills  
-- **Backend:** Java (Spring Boot), PHP (Laravel), Python, REST APIs, Microservices  
+- **Backend:** Java (Spring Boot), Python, REST APIs, Microservices  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, CI/CD  
 - **Frontend (Supporting):** JavaScript, TypeScript, React, Angular, Next.js  
